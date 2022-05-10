@@ -12,6 +12,6 @@ class secClass{
         test()
     }
     func test(){
-        print("test function success")
+        print("test function success!!")
     }
 }
