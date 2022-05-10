@@ -13,5 +13,13 @@ class secClass{
     }
     func test(){
         print("test function success!!")
+        var test: Point = Point(x: 1, y: 2) //setter
+        print(test)
+
+        test.oppositePoint = Point(x: -3, y: -4)
+        print(test)
+
     }
 }
+
+
