@@ -3,4 +3,8 @@ public struct MyLib220510 {
 
     public init() {
     }
+    
+    private func testFunction(){
+        print("text2")
+    }
 }
