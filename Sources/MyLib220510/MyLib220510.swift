@@ -7,4 +7,8 @@ public struct MyLib220510 {
     private func testFunction(){
         print("text2")
     }
+    
+    public func testFunction2(){
+        print("text2")
+    }
 }
