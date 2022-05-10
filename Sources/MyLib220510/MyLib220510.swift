@@ -10,5 +10,6 @@ public struct MyLib220510 {
     
     public func testFunction2(){
         print("text2")
+        secClass()
     }
 }
